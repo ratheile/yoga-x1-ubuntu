@@ -6,7 +6,7 @@ I created this reposiotry when I was unable to use the brightness buttons on my 
 
 ## Modules
 | Folder | What is ist |How to install |
-|-|:-|
+|-|:-|:-|
 | brightness-buttons | This module reenables brightness control for the F5 and F6 buttons. | `sudo ./install.sh` |
 |gnome-look | Gnome shell tweaks such as the header size. | `./install.sh` |
 
