@@ -12,4 +12,5 @@ I created this reposiotry when I was unable to use the brightness buttons on my 
 
 
 ## Credits
-Credits to Ivo Blöchliger for the answer to this question on [AskUbuntu](https://askubuntu.com/questions/824949/lenovo-thinkpad-x1-yoga-oled-brightness).
+- Credits to Ivo Blöchliger for the answer to this question on [AskUbuntu](https://askubuntu.com/questions/824949/lenovo-thinkpad-x1-yoga-oled-brightness) .
+- Credits to Fadlun Akbar for the gnome [CSS](http://blog.samalik.com/make-your-gnome-title-bars-smaller/) .
