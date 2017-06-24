@@ -26,7 +26,7 @@ PERCENT=`echo "$VAL / $MAX" | bc -l`
 # export DISPLAY=:0.0
 
 export XAUTHORITY=/run/user/1000/gdm/Xauthority
-export DISPLAY=:1
+export DISPLAY=:0
 
 xrandr --output eDP-1 --brightness $PERCENT # >> /tmp/yoga-brightness.log
 echo "1: xrandr --output eDP-1 --brightness $PERCENT" # >> /tmp/yoga-brightness.log
